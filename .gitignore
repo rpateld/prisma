@@ -1,6 +1,6 @@
 # dependencies
+prisma-examples-master
 node_modules
-
 .vscode
 /.pnp
 .pnp.js
